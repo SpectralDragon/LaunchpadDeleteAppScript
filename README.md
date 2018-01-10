@@ -4,7 +4,7 @@ A small script that allows you to remove applications from the launchpad
 ### Using script (easy)
 Only need execute this command in terminal:
 ```swift
-sudo swift launchpads.swift
+sudo swift launchpad.swift
 ```
 You should be this output message:
 
