@@ -1,6 +1,6 @@
 //
-//  main.swift
-//  Script
+//  launchpad.swift
+//  LaunchpadDeleteAppScript
 //
 //  Created by v.a.prusakov on 10/01/2018.
 //  Copyright © 2018 v.a.prusakov. All rights reserved.

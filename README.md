@@ -8,6 +8,7 @@ sudo swift launchpads.swift
 ```
 You should be this output message:
 
+![](assets/terminal_green.png)
 ![](assets/terminal.png)
 
 If all it's ok you now could remove application from Launchpad
