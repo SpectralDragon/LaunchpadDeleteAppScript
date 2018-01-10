@@ -17,6 +17,6 @@ If all it's ok you now could remove application from Launchpad
 
 ## Author
 
-* Vladislav Prusaklv [🐦](https://www.twitter.com/spectraldragon_)
+* Vladislav Prusakov [🐦](https://www.twitter.com/spectraldragon_)
 
 
